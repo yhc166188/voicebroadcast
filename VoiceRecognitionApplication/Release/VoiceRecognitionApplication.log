@@ -1,9 +1,4 @@
-﻿  Moc'ing VoiceRecognitionApplication.h...
-  Uic'ing VoiceRecognitionApplication.ui...
-  Rcc'ing VoiceRecognitionApplication.qrc...
-RCC : warning : No resources in 'E:\work\vs_project\voicebroadcast\voicebroadcast\VoiceRecognitionApplication\VoiceRecognitionApplication.qrc'.
-  
-  qrc_VoiceRecognitionApplication.cpp
+﻿  qrc_VoiceRecognitionApplication.cpp
   moc_VoiceRecognitionApplication.cpp
   main.cpp
   VoiceRecognitionApplication.cpp
@@ -11,8 +6,8 @@ RCC : warning : No resources in 'E:\work\vs_project\voicebroadcast\voicebroadcas
   jsoncpp.lib(json_value.obj) : 找到 MSIL .netmodule 或使用 /GL 编译的模块；正在使用 /LTCG 重新启动链接；将 /LTCG 添加到链接命令行以改进链接器性能
   正在生成代码
 e:\work\code\zyzww\win-app\win-nim\third_party\jsoncpp\src\lib_json\json_value.cpp(783): warning C4715: “Json::Value::asBool”: 不是所有的控件路径都返回值
-e:\work\code\zyzww\win-app\win-nim\third_party\jsoncpp\src\lib_json\json_value.cpp(743): warning C4715: “Json::Value::asDouble”: 不是所有的控件路径都返回值
 e:\work\code\zyzww\win-app\win-nim\third_party\jsoncpp\src\lib_json\json_value.cpp(702): warning C4715: “Json::Value::asUInt64”: 不是所有的控件路径都返回值
+e:\work\code\zyzww\win-app\win-nim\third_party\jsoncpp\src\lib_json\json_value.cpp(743): warning C4715: “Json::Value::asDouble”: 不是所有的控件路径都返回值
 e:\work\code\zyzww\win-app\win-nim\third_party\jsoncpp\src\lib_json\json_value.cpp(679): warning C4715: “Json::Value::asInt64”: 不是所有的控件路径都返回值
 e:\work\code\zyzww\win-app\win-nim\third_party\jsoncpp\src\lib_json\json_value.cpp(630): warning C4715: “Json::Value::asInt”: 不是所有的控件路径都返回值
 e:\work\code\zyzww\win-app\win-nim\third_party\jsoncpp\src\lib_json\json_value.cpp(596): warning C4715: “Json::Value::asString”: 不是所有的控件路径都返回值

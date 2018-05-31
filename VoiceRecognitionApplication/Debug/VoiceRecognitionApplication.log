@@ -1,3 +1,13 @@
-﻿  VoiceRecognitionApplication.cpp
-  VoiceRecognitionApplication.vcxproj -> E:\work\vs_project\VoiceRecognitionApplication\Win32\Debug\VoiceRecognitionApplication.exe
-  VoiceRecognitionApplication.vcxproj -> E:\work\vs_project\VoiceRecognitionApplication\Win32\Debug\VoiceRecognitionApplication.pdb (Full PDB)
+﻿  Moc'ing VoiceRecognitionApplication.h...
+  Uic'ing VoiceRecognitionApplication.ui...
+  Rcc'ing VoiceRecognitionApplication.qrc...
+RCC : warning : No resources in 'E:\work\vs_project\voicebroadcast\voicebroadcast\VoiceRecognitionApplication\VoiceRecognitionApplication.qrc'.
+  
+  moc_VoiceRecognitionApplication.cpp
+  main.cpp
+  VoiceRecognitionApplication.cpp
+  正在生成代码...
+  qrc_VoiceRecognitionApplication.cpp
+jsoncpp_d.lib(json_value.obj) : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  VoiceRecognitionApplication.vcxproj -> E:\work\vs_project\voicebroadcast\voicebroadcast\Win32\Debug\VoiceRecognitionApplication.exe
+  VoiceRecognitionApplication.vcxproj -> E:\work\vs_project\voicebroadcast\voicebroadcast\Win32\Debug\VoiceRecognitionApplication.pdb (Full PDB)
